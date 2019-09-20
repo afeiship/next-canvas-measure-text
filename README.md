@@ -16,6 +16,7 @@ const ctx = canvas.getContext('2d');
 
 nx.canvasMeasureText({
   context: ctx,
+  callback: function(ctx){ ctx.font = '12px PingFang SC' },
   text:'Just a tse'
 });
 ```
