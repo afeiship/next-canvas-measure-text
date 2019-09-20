@@ -2,7 +2,7 @@
  * name: next-canvas-measure-text
  * url: https://github.com/afeiship/next-canvas-measure-text
  * version: 1.0.0
- * date: 2019-09-20T05:57:33.584Z
+ * date: 2019-09-20T05:59:32.016Z
  * license: MIT
  */
 

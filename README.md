@@ -8,5 +8,14 @@ npm install -S afeiship/next-canvas-measure-text --registry=https://registry.npm
 
 ## usage
 ```js
-//DOCS here!
+import 'next-canvas-measure-text';
+import { createCanvas } from 'canvas';
+
+const canvas = createCanvas(1000, 1000);
+const ctx = canvas.getContext('2d');
+
+nx.canvasMeasureText({
+  context: ctx,
+  text:'Just a tse'
+});
 ```
