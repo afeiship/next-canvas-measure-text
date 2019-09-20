@@ -1,0 +1,28 @@
+{
+  "name": "next-canvas-measure-text",
+  "version": "0.0.1",
+  "description": "nextBoilerplatePackageDescription",
+  "main": "dist/next-canvas-measure-text.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-canvas-measure-text",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
